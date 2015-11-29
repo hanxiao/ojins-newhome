@@ -232,6 +232,15 @@ margin-top:40px;
  }
  
 /* Landscape phones and down */
-@media (max-width: 480px) { ... }
+@media (max-width: 480px) {  }
+
+.my-icon {
+	height:80px;
+	border-radius: 20px;
+}
 
 
+.brand {
+	font-size: 30px;
+	font-weight: 100;
+}
